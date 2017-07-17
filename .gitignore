@@ -1,0 +1,10 @@
+*.root
+*.png
+*.txt
+*.swp
+*.swo
+*.pdf
+.ipynb_checkpoints
+Plots/*
+EffPlots/*
+*.mp4
